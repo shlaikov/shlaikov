@@ -1,4 +1,4 @@
-<h1 align="left">Hey, I'm Alexey <img src="images/hey.gif" width="32"></h1>
+<h1 align="left">Hey, I'm Alexey <img src="https://github.com/shlaikov/shlaikov.github.io/blob/master/images/hey.gif?raw=true" width="32"></h1>
 
 I'm an open source software developer and dad.
 
